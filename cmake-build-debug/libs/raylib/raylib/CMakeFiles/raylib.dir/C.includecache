@@ -68,9 +68,9 @@ EGL/egl.h
 GL/osmesa.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/config.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/config.h
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/cgltf.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/cgltf.h
 stddef.h
 -
 stdint.h
@@ -86,7 +86,7 @@ float.h
 stdlib.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dirent.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dirent.h
 io.h
 -
 stdlib.h
@@ -96,9 +96,9 @@ string.h
 errno.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dr_flac.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dr_flac.h
 dr_flac.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dr_flac.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dr_flac.h
 stddef.h
 -
 endian.h
@@ -126,9 +126,9 @@ wchar.h
 errno.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dr_mp3.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dr_mp3.h
 dr_mp3.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dr_mp3.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dr_mp3.h
 stddef.h
 -
 stdlib.h
@@ -154,9 +154,9 @@ wchar.h
 errno.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dr_wav.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dr_wav.h
 dr_wav.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dr_wav.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dr_wav.h
 stddef.h
 -
 stdlib.h
@@ -174,7 +174,7 @@ assert.h
 errno.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/glad.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/glad.h
 winapifamily.h
 -
 stdint.h
@@ -190,13 +190,13 @@ stdlib.h
 string.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/jar_mod.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/jar_mod.h
 stdio.h
 -
 stdlib.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/jar_xm.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/jar_xm.h
 stdint.h
 -
 math.h
@@ -212,23 +212,23 @@ string.h
 stdio.h
 -
 raylib.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/raylib.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/raylib.h
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/miniaudio.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/miniaudio.h
 miniaudio.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/miniaudio.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/miniaudio.h
 miniaudio.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/miniaudio.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/miniaudio.h
 extras/stb_vorbis.c
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/extras/stb_vorbis.c
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/extras/stb_vorbis.c
 miniaudio.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/miniaudio.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/miniaudio.h
 extras/stb_vorbis.c
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/extras/stb_vorbis.c
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/extras/stb_vorbis.c
 extras/speex_resampler/ma_speex_resampler.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/extras/speex_resampler/ma_speex_resampler.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/extras/speex_resampler/ma_speex_resampler.h
 extras/speex_resampler/ma_speex_resampler.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/extras/speex_resampler/ma_speex_resampler.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/extras/speex_resampler/ma_speex_resampler.h
 pthread.h
 -
 stddef.h
@@ -424,9 +424,9 @@ wchar.h
 errno.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/msf_gif.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/msf_gif.h
 msf_gif.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/msf_gif.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/msf_gif.h
 stdint.h
 -
 stddef.h
@@ -440,7 +440,7 @@ intrin.h
 emmintrin.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/par_shapes.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/par_shapes.h
 stdint.h
 -
 stdbool.h
@@ -462,9 +462,9 @@ math.h
 errno.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/qoi.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/qoi.h
 qoi.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/qoi.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/qoi.h
 stdlib.h
 -
 string.h
@@ -472,7 +472,7 @@ string.h
 stdio.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/sdefl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/sdefl.h
 assert.h
 -
 string.h
@@ -480,7 +480,7 @@ string.h
 limits.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/sinfl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/sinfl.h
 string.h
 -
 assert.h
@@ -490,9 +490,9 @@ emmintrin.h
 arm_neon.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_image.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_image.h
 stb_image.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_image.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_image.h
 stdio.h
 -
 stdlib.h
@@ -522,9 +522,9 @@ intrin.h
 arm_neon.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_image_resize.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_image_resize.h
 stb_image_resize.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_image_resize.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_image_resize.h
 stdint.h
 -
 assert.h
@@ -536,7 +536,7 @@ math.h
 stdlib.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_image_write.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_image_write.h
 stdlib.h
 -
 stdio.h
@@ -552,19 +552,19 @@ math.h
 assert.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_rect_pack.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_rect_pack.h
 stdlib.h
 -
 assert.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_truetype.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_truetype.h
 stb_truetype.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_truetype.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_truetype.h
 stdio.h
 -
 stb_truetype.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_truetype.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_truetype.h
 math.h
 -
 math.h
@@ -584,11 +584,11 @@ string.h
 string.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_vorbis.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_vorbis.h
 stdio.h
 -
 utils.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/utils.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/utils.h
 stdio.h
 -
 stdlib.h
@@ -608,7 +608,7 @@ limits.h
 crtdbg.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/tinyobj_loader_c.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/tinyobj_loader_c.h
 stdio.h
 -
 assert.h
@@ -620,25 +620,25 @@ errno.h
 stdlib.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/vox_loader.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/vox_loader.h
 vox_loader.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/vox_loader.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/vox_loader.h
 string.h
 -
 stdlib.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raudio.c
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raudio.c
 raudio.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raudio.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raudio.h
 stdarg.h
 -
 raylib.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raylib.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raylib.h
 config.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/config.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/config.h
 utils.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/utils.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/utils.h
 windows.h
 -
 objbase.h
@@ -648,9 +648,9 @@ mmreg.h
 mmsystem.h
 -
 propidl.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/propidl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/propidl.h
 external/miniaudio.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/miniaudio.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/miniaudio.h
 stdlib.h
 -
 stdio.h
@@ -658,55 +658,55 @@ stdio.h
 string.h
 -
 external/stb_vorbis.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_vorbis.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_vorbis.h
 external/jar_xm.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/jar_xm.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/jar_xm.h
 external/jar_mod.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/jar_mod.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/jar_mod.h
 external/dr_wav.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dr_wav.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dr_wav.h
 external/dr_mp3.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dr_mp3.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dr_mp3.h
 external/dr_flac.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dr_flac.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dr_flac.h
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raudio.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raudio.h
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raylib.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raylib.h
 stdarg.h
 -
 stdbool.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raymath.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raymath.h
 math.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rcamera.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rcamera.h
 math.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rcore.c
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rcore.c
 raylib.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raylib.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raylib.h
 config.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/config.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/config.h
 utils.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/utils.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/utils.h
 rlgl.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rlgl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rlgl.h
 raymath.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raymath.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raymath.h
 rgestures.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rgestures.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rgestures.h
 rcamera.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rcamera.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rcamera.h
 external/msf_gif.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/msf_gif.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/msf_gif.h
 external/sinfl.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/sinfl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/sinfl.h
 external/sdefl.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/sdefl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/sdefl.h
 unistd.h
 -
 sys/syslimits.h
@@ -726,7 +726,7 @@ math.h
 sys/stat.h
 -
 external/dirent.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/dirent.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/dirent.h
 dirent.h
 -
 direct.h
@@ -736,17 +736,17 @@ io.h
 unistd.h
 -
 GLFW/glfw3.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/GLFW/glfw3.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/GLFW/glfw3.h
 GLFW/glfw3native.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/GLFW/glfw3native.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/GLFW/glfw3native.h
 sys/time.h
 -
 GLFW/glfw3native.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/GLFW/glfw3native.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/GLFW/glfw3native.h
 unistd.h
 -
 GLFW/glfw3native.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/GLFW/glfw3native.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/GLFW/glfw3native.h
 android/window.h
 -
 android_native_app_glue.h
@@ -772,7 +772,7 @@ linux/input.h
 linux/joystick.h
 -
 bcm_host.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/bcm_host.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/bcm_host.h
 gbm.h
 -
 xf86drm.h
@@ -780,11 +780,11 @@ xf86drm.h
 xf86drmMode.h
 -
 EGL/egl.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/EGL/egl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/EGL/egl.h
 EGL/eglext.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/EGL/eglext.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/EGL/eglext.h
 GLFW/glfw3.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/GLFW/glfw3.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/GLFW/glfw3.h
 sys/time.h
 -
 emscripten/emscripten.h
@@ -792,7 +792,7 @@ emscripten/emscripten.h
 emscripten/html5.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rgestures.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rgestures.h
 stdbool.h
 -
 sys/time.h
@@ -806,7 +806,7 @@ mach/clock.h
 mach/mach.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rlgl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rlgl.h
 stdbool.h
 -
 OpenGL/gl.h
@@ -820,7 +820,7 @@ OpenGL/gl3.h
 OpenGL/gl3ext.h
 -
 external/glad.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/glad.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/glad.h
 GLES2/gl2.h
 -
 GLES2/gl2ext.h
@@ -832,17 +832,17 @@ string.h
 math.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rmodels.c
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rmodels.c
 raylib.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raylib.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raylib.h
 config.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/config.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/config.h
 utils.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/utils.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/utils.h
 rlgl.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rlgl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rlgl.h
 raymath.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raymath.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raymath.h
 stdio.h
 -
 stdlib.h
@@ -852,39 +852,39 @@ string.h
 math.h
 -
 external/tinyobj_loader_c.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/tinyobj_loader_c.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/tinyobj_loader_c.h
 external/cgltf.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/cgltf.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/cgltf.h
 external/vox_loader.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/vox_loader.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/vox_loader.h
 external/par_shapes.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/par_shapes.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/par_shapes.h
 direct.h
 -
 unistd.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rshapes.c
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rshapes.c
 raylib.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raylib.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raylib.h
 config.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/config.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/config.h
 rlgl.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rlgl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rlgl.h
 math.h
 -
 float.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rtext.c
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rtext.c
 raylib.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raylib.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raylib.h
 config.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/config.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/config.h
 utils.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/utils.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/utils.h
 rlgl.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rlgl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rlgl.h
 stdlib.h
 -
 stdio.h
@@ -896,19 +896,19 @@ stdarg.h
 ctype.h
 -
 external/stb_rect_pack.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_rect_pack.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_rect_pack.h
 external/stb_truetype.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_truetype.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_truetype.h
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rtextures.c
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rtextures.c
 raylib.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raylib.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raylib.h
 config.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/config.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/config.h
 utils.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/utils.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/utils.h
 rlgl.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/rlgl.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/rlgl.h
 stdlib.h
 -
 string.h
@@ -918,21 +918,21 @@ math.h
 stdio.h
 -
 external/stb_image.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_image.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_image.h
 external/qoi.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/qoi.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/qoi.h
 external/stb_image_write.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_image_write.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_image_write.h
 external/stb_image_resize.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/external/stb_image_resize.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/external/stb_image_resize.h
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/utils.c
+H:/games4k/Risovalka228/libs/raylib-4.1/src/utils.c
 raylib.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/raylib.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/raylib.h
 config.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/config.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/config.h
 utils.h
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/utils.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/utils.h
 errno.h
 -
 android/log.h
@@ -948,7 +948,7 @@ stdarg.h
 string.h
 -
 
-H:/games4k/RayLibTemplate/libs/raylib-4.1/src/utils.h
+H:/games4k/Risovalka228/libs/raylib-4.1/src/utils.h
 stdio.h
 -
 android/asset_manager.h

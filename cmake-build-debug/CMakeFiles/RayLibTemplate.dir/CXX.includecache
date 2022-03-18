@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libs/raylib-4.1/src/raylib.h
+stdarg.h
+-
+stdbool.h
+-
+
+H:/games4k/Risovalka228/src/MyCamera.cpp
+MyCamera.h
+H:/games4k/Risovalka228/src/MyCamera.h
+
+H:/games4k/Risovalka228/src/MyCamera.h
+raylib.h
+-
+

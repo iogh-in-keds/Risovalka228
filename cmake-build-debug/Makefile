@@ -219,6 +219,30 @@ glfw/fast:
 	$(MAKE) $(MAKESILENT) -f libs\raylib\raylib\external\glfw\src\CMakeFiles\glfw.dir\build.make libs/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/build
 .PHONY : glfw/fast
 
+src/MyCamera.obj: src/MyCamera.cpp.obj
+.PHONY : src/MyCamera.obj
+
+# target to build an object file
+src/MyCamera.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.obj
+.PHONY : src/MyCamera.cpp.obj
+
+src/MyCamera.i: src/MyCamera.cpp.i
+.PHONY : src/MyCamera.i
+
+# target to preprocess a source file
+src/MyCamera.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.i
+.PHONY : src/MyCamera.cpp.i
+
+src/MyCamera.s: src/MyCamera.cpp.s
+.PHONY : src/MyCamera.s
+
+# target to generate assembly for a file
+src/MyCamera.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.s
+.PHONY : src/MyCamera.cpp.s
+
 src/Object.obj: src/Object.cpp.obj
 .PHONY : src/Object.obj
 
@@ -308,6 +332,9 @@ help:
 	@echo ... RayLibTemplate
 	@echo ... glfw
 	@echo ... raylib
+	@echo ... src/MyCamera.obj
+	@echo ... src/MyCamera.i
+	@echo ... src/MyCamera.s
 	@echo ... src/Object.obj
 	@echo ... src/Object.i
 	@echo ... src/Object.s

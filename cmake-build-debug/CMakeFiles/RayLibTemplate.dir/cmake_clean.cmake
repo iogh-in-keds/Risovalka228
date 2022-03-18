@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.obj"
   "CMakeFiles/RayLibTemplate.dir/src/Object.cpp.obj"
   "CMakeFiles/RayLibTemplate.dir/src/Point.cpp.obj"
   "CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj"

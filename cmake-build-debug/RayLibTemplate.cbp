@@ -412,6 +412,12 @@
 		<Unit filename="H:/games4k/Risovalka228/libs/raylib-4.1/src/utils.h">
 			<Option target="raylib"/>
 		</Unit>
+		<Unit filename="H:/games4k/Risovalka228/src/MyCamera.cpp">
+			<Option target="RayLibTemplate"/>
+		</Unit>
+		<Unit filename="H:/games4k/Risovalka228/src/MyCamera.h">
+			<Option target="RayLibTemplate"/>
+		</Unit>
 		<Unit filename="H:/games4k/Risovalka228/src/Object.cpp">
 			<Option target="RayLibTemplate"/>
 		</Unit>

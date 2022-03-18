@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "H:/games4k/Risovalka228/src/MyCamera.cpp" "H:/games4k/Risovalka228/cmake-build-debug/CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.obj"
   "H:/games4k/Risovalka228/src/Object.cpp" "H:/games4k/Risovalka228/cmake-build-debug/CMakeFiles/RayLibTemplate.dir/src/Object.cpp.obj"
   "H:/games4k/Risovalka228/src/Point.cpp" "H:/games4k/Risovalka228/cmake-build-debug/CMakeFiles/RayLibTemplate.dir/src/Point.cpp.obj"
   "H:/games4k/Risovalka228/src/main.cpp" "H:/games4k/Risovalka228/cmake-build-debug/CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj"
