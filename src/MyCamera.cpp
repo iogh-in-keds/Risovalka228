@@ -16,7 +16,18 @@ void MyCamera::update() {
     if (GetMousePosition().y <= 1) {
         mCamera.offset.y += 5;
         position.y += 5;
-        SetMousePosition(GetMouseX(), 2);
+    }
+    if (GetMousePosition().x <= 1) {
+        mCamera.offset.x += 5;
+        position.x += 5;
+    }
+    if (GetMousePosition().x >= 1919) {
+        mCamera.offset.x -= 5;
+        position.x -= 5;
+    }
+    if (GetMousePosition().y >= 1079) {
+        mCamera.offset.y -= 5;
+        position.y -= 5;
     }
 }
 

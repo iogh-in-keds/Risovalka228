@@ -12,7 +12,7 @@
 
 int main() {
     InitWindow(1920, 1080, "risovalka");
-    ToggleFullscreen();
+//    ToggleFullscreen();
     SetTargetFPS(60);
     MyCamera camera;
     std::vector<Object *> obj(0);
