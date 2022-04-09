@@ -14,20 +14,20 @@ MyCamera::MyCamera() {
 
 void MyCamera::update() {
     if (GetMousePosition().y <= 1) {
-        mCamera.offset.y += 5;
-        position.y += 5;
+        mCamera.offset.y += 10;
+        position.y += 10;
     }
     if (GetMousePosition().x <= 1) {
-        mCamera.offset.x += 5;
-        position.x += 5;
+        mCamera.offset.x += 10;
+        position.x += 10;
     }
     if (GetMousePosition().x >= 1919) {
-        mCamera.offset.x -= 5;
-        position.x -= 5;
+        mCamera.offset.x -= 10;
+        position.x -= 10;
     }
     if (GetMousePosition().y >= 1079) {
-        mCamera.offset.y -= 5;
-        position.y -= 5;
+        mCamera.offset.y -= 10;
+        position.y -= 10;
     }
 }
 
