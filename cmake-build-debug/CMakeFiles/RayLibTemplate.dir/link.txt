@@ -1,3 +1,3 @@
-C:\JetBrains\Tools\apps\CLion\ch-0\213.7172.20\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\RayLibTemplate.dir/objects.a
-C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\ar.exe qc CMakeFiles\RayLibTemplate.dir/objects.a @CMakeFiles\RayLibTemplate.dir\objects1.rsp
+C:\JetBrains\Tools\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\RayLibTemplate.dir/objects.a
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\ar.exe cr CMakeFiles\RayLibTemplate.dir/objects.a @CMakeFiles\RayLibTemplate.dir\objects1.rsp
 C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\RayLibTemplate.dir/objects.a -Wl,--no-whole-archive -o RayLibTemplate.exe -Wl,--out-implib,libRayLibTemplate.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RayLibTemplate.dir\linklibs.rsp

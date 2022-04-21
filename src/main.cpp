@@ -17,7 +17,7 @@ int main() {
     MyCamera camera;
     std::vector<Object *> obj(0);
     while (!WindowShouldClose()) {
-        if (IsMouseButtonDown(MOUSE_BUTTON_LEFT)) {
+        if (IsMouseButtonPressed(MOUSE_BUTTON_LEFT)) {
             Vector2 position = {GetMouseX() - camera.position.x, GetMouseY() - camera.position.y};
             Point *p = new Point(position);
             obj.push_back(p);
