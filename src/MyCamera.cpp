@@ -13,19 +13,19 @@ MyCamera::MyCamera() {
 }
 
 void MyCamera::update() {
-    if (GetMousePosition().y <= 1) {
+    if (GetMousePosition().y <= 1 || IsKeyDown(KEY_UP)) {
         mCamera.offset.y += 10;
         position.y += 10;
     }
-    if (GetMousePosition().x <= 1) {
+    if (GetMousePosition().x <= 1 || IsKeyDown(KEY_LEFT)) {
         mCamera.offset.x += 10;
         position.x += 10;
     }
-    if (GetMousePosition().x >= 1919) {
+    if (GetMousePosition().x >= 1919 || IsKeyDown(KEY_RIGHT)) {
         mCamera.offset.x -= 10;
         position.x -= 10;
     }
-    if (GetMousePosition().y >= 1079) {
+    if (GetMousePosition().y >= 1079 || IsKeyDown(KEY_DOWN)) {
         mCamera.offset.y -= 10;
         position.y -= 10;
     }
