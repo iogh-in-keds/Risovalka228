@@ -13,6 +13,7 @@ public:
     Circle(Point o, Point a);
     Circle(Point o, float r);
     void draw() override;
+    float getR() override;
 private:
     float mR;
 };

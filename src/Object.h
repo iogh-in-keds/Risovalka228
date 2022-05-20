@@ -19,6 +19,10 @@ public:
     Vector2 getPosition();
     std::string getType();
     virtual void draw() = 0;
+    virtual float getA() {return 0;}
+    virtual float getB() {return 0;}
+    virtual float getC() {return 0;}
+    virtual float getR() {return 0;}
 
 protected:
     Vector2 mPosition;

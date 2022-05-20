@@ -40,3 +40,15 @@ void Line::draw() {
     DrawLineEx({-mCamera->position.x, -(-mA * mCamera->position.x + mC) / mB},
                {1920 - mCamera->position.x, -(mA * (1920 - mCamera->position.x) + mC) / mB}, 2 , BLACK);
 }
+
+float Line::getA() {
+    return mA;
+}
+
+float Line::getB() {
+    return mB;
+}
+
+float Line::getC() {
+    return mC;
+}

@@ -16,6 +16,9 @@ public:
     explicit Line(float x1, float y1, float x2, float y2, MyCamera *cam = 0);
     explicit Line(float a, float b, float c, MyCamera *cam = 0);
     void draw() override;
+    float getA() override;
+    float getB() override;
+    float getC() override;
 
 private:
     float mA, mB, mC;

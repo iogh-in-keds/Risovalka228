@@ -21,3 +21,7 @@ void Circle::draw() {
     DrawCircleLines(mPosition.x, mPosition.y, mR + 0.5, BLACK);
     DrawCircleLines(mPosition.x, mPosition.y, mR + 1, BLACK);
 }
+
+float Circle::getR() {
+    return mR;
+}
