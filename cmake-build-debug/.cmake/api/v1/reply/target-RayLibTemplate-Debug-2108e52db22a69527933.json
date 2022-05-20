@@ -88,7 +88,8 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5
 			]
 		}
 	],
@@ -96,11 +97,11 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "raylib::@c433a9b36bd4eeacb31c"
+			"id" : "glfw::@748cfb7de3ab8e0bc04d"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "glfw::@748cfb7de3ab8e0bc04d"
+			"id" : "raylib::@c433a9b36bd4eeacb31c"
 		}
 	],
 	"id" : "RayLibTemplate::@6890427a1f51a3e7e1df",
@@ -161,21 +162,29 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5
 			]
 		},
 		{
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				5,
 				6,
-				7
+				7,
+				8,
+				9
 			]
 		}
 	],
 	"sources" : 
 	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Circle.cpp",
+			"sourceGroupIndex" : 0
+		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
@@ -219,6 +228,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "src/Line.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Circle.h",
 			"sourceGroupIndex" : 1
 		}
 	],

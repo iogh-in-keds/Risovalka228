@@ -412,6 +412,12 @@
 		<Unit filename="H:/games4k/Risovalka228/libs/raylib-4.1/src/utils.h">
 			<Option target="raylib"/>
 		</Unit>
+		<Unit filename="H:/games4k/Risovalka228/src/Circle.cpp">
+			<Option target="RayLibTemplate"/>
+		</Unit>
+		<Unit filename="H:/games4k/Risovalka228/src/Circle.h">
+			<Option target="RayLibTemplate"/>
+		</Unit>
 		<Unit filename="H:/games4k/Risovalka228/src/Line.cpp">
 			<Option target="RayLibTemplate"/>
 		</Unit>

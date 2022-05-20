@@ -9,6 +9,7 @@ Line::Line(Point p1, Point p2, MyCamera *cam) {
     mB = p1.getX() - p2.getX();
     mC = -(p1.getX()*mA + p1.getY()*mB);
     mCamera = cam;
+    mType = "l";
 }
 
 Line::Line(Vector2 p1, Vector2 p2, MyCamera *cam) {
@@ -16,6 +17,7 @@ Line::Line(Vector2 p1, Vector2 p2, MyCamera *cam) {
     mB = p1.x - p2.x;
     mC = -(p1.x*mA + p1.y*mB);
     mCamera = cam;
+    mType = "l";
 }
 
 Line::Line(float x1, float y1, float x2, float y2, MyCamera *cam) {
@@ -23,6 +25,7 @@ Line::Line(float x1, float y1, float x2, float y2, MyCamera *cam) {
     mB = x1 - x2;
     mC = -(x1*mA + y1*mB);
     mCamera = cam;
+    mType = "l";
 }
 
 Line::Line(float a, float b, float c, MyCamera *cam) {
@@ -30,6 +33,7 @@ Line::Line(float a, float b, float c, MyCamera *cam) {
     mB = b;
     mC = c;
     mCamera = cam;
+    mType = "l";
 }
 
 void Line::draw() {

@@ -24,3 +24,7 @@ Object::Object(float x, float y) {
     mPosition.x = x;
     mPosition.y = y;
 }
+
+std::string Object::getType() {
+    return mType;
+}

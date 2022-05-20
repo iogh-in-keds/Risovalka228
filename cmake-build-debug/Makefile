@@ -219,6 +219,30 @@ glfw/fast:
 	$(MAKE) $(MAKESILENT) -f libs\raylib\raylib\external\glfw\src\CMakeFiles\glfw.dir\build.make libs/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/build
 .PHONY : glfw/fast
 
+src/Circle.obj: src/Circle.cpp.obj
+.PHONY : src/Circle.obj
+
+# target to build an object file
+src/Circle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.obj
+.PHONY : src/Circle.cpp.obj
+
+src/Circle.i: src/Circle.cpp.i
+.PHONY : src/Circle.i
+
+# target to preprocess a source file
+src/Circle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.i
+.PHONY : src/Circle.cpp.i
+
+src/Circle.s: src/Circle.cpp.s
+.PHONY : src/Circle.s
+
+# target to generate assembly for a file
+src/Circle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RayLibTemplate.dir\build.make CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.s
+.PHONY : src/Circle.cpp.s
+
 src/Line.obj: src/Line.cpp.obj
 .PHONY : src/Line.obj
 
@@ -356,6 +380,9 @@ help:
 	@echo ... RayLibTemplate
 	@echo ... glfw
 	@echo ... raylib
+	@echo ... src/Circle.obj
+	@echo ... src/Circle.i
+	@echo ... src/Circle.s
 	@echo ... src/Line.obj
 	@echo ... src/Line.i
 	@echo ... src/Line.s

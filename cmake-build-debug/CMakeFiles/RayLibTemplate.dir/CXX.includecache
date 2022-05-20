@@ -12,11 +12,25 @@ stdarg.h
 stdbool.h
 -
 
-H:/games4k/Risovalka228/src/MyCamera.cpp
-MyCamera.h
-H:/games4k/Risovalka228/src/MyCamera.h
+H:/games4k/Risovalka228/src/Circle.cpp
+cmath
+-
+Circle.h
+H:/games4k/Risovalka228/src/Circle.h
 
-H:/games4k/Risovalka228/src/MyCamera.h
+H:/games4k/Risovalka228/src/Circle.h
+Object.h
+H:/games4k/Risovalka228/src/Object.h
+Point.h
+H:/games4k/Risovalka228/src/Point.h
+
+H:/games4k/Risovalka228/src/Object.h
+string
+-
 raylib.h
 -
+
+H:/games4k/Risovalka228/src/Point.h
+Object.h
+H:/games4k/Risovalka228/src/Object.h
 

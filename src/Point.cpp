@@ -10,9 +10,11 @@ void Point::draw() {
 
 Point::Point(Vector2 position) : Object(position) {
     mPosition = position;
+    mType = "p";
 }
 
 Point::Point(float x, float y) : Object(x, y) {
     mPosition.x = x;
     mPosition.y = y;
+    mType = "p";
 }

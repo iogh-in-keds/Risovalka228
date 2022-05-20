@@ -17,6 +17,7 @@ public:
     float getX();
     float getY();
     Vector2 getPosition();
+    std::string getType();
     virtual void draw() = 0;
 
 protected:

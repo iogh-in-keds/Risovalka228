@@ -10,6 +10,7 @@
 #include "Point.h"
 #include "MyCamera.h"
 #include "Line.h"
+#include "Circle.h"
 
 int main() {
     InitWindow(1920, 1080, "risovalka");
@@ -31,6 +32,11 @@ int main() {
             is1PointPlaced = false;
             mode = "l";
         }
+        if (IsKeyPressed(KEY_C)) {
+            firstPointInObject = Point();
+            is1PointPlaced = false;
+            mode = "c";
+        }
         if (mode == "p") {
             if (IsMouseButtonPressed(MOUSE_BUTTON_LEFT)) {
                 Vector2 position = {GetMouseX() - camera.position.x, GetMouseY() - camera.position.y};
@@ -42,15 +48,52 @@ int main() {
             if (!is1PointPlaced && IsMouseButtonPressed(MOUSE_BUTTON_LEFT)) {
                 Vector2 position = {GetMouseX() - camera.position.x, GetMouseY() - camera.position.y};
                 firstPointInObject = Point(position);
+                for (Object *i : obj) {
+                    if (i->getType() == "p" && abs(i->getX() - position.x) + abs(i->getY() - position.y) <= 10) {
+                        firstPointInObject = Point(i->getPosition());
+                    }
+                }
                 is1PointPlaced = true;
             } else if (IsMouseButtonPressed(MOUSE_BUTTON_LEFT)) {
                 Vector2 position = {GetMouseX() - camera.position.x, GetMouseY() - camera.position.y};
                 Point *point = new Point(position), *p = new Point();
                 *p = firstPointInObject;
+                for (Object *i : obj) {
+                    if (i->getType() == "p" && abs(i->getX() - position.x) + abs(i->getY() - position.y) <= 10) {
+                        *point = Point(i->getPosition());
+                    }
+                }
                 Line *l = new Line(firstPointInObject, *point, &camera);
                 is1PointPlaced = false;
                 firstPointInObject = Point();
                 obj.push_back(l);
+                obj.push_back(p);
+                obj.push_back(point);
+            }
+        }
+        if (mode == "c") {
+            if (!is1PointPlaced && IsMouseButtonPressed(MOUSE_BUTTON_LEFT)) {
+                Vector2 position = {GetMouseX() - camera.position.x, GetMouseY() - camera.position.y};
+                firstPointInObject = Point(position);
+                for (Object *i : obj) {
+                    if (i->getType() == "p" && abs(i->getX() - position.x) + abs(i->getY() - position.y) <= 10) {
+                        firstPointInObject = Point(i->getPosition());
+                    }
+                }
+                is1PointPlaced = true;
+            } else if (IsMouseButtonPressed(MOUSE_BUTTON_LEFT)) {
+                Vector2 position = {GetMouseX() - camera.position.x, GetMouseY() - camera.position.y};
+                Point *point = new Point(position), *p = new Point();
+                *p = firstPointInObject;
+                for (Object *i : obj) {
+                    if (i->getType() == "p" && abs(i->getX() - position.x) + abs(i->getY() - position.y) <= 10) {
+                        *point = Point(i->getPosition());
+                    }
+                }
+                Circle *c = new Circle(firstPointInObject, *point);
+                is1PointPlaced = false;
+                firstPointInObject = Point();
+                obj.push_back(c);
                 obj.push_back(p);
                 obj.push_back(point);
             }

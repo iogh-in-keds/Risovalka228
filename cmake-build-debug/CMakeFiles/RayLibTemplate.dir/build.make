@@ -65,10 +65,24 @@ include CMakeFiles/RayLibTemplate.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/RayLibTemplate.dir/flags.make
 
+CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.obj: CMakeFiles/RayLibTemplate.dir/flags.make
+CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
+CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.obj: ../src/Circle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.obj"
+	C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RayLibTemplate.dir\src\Circle.cpp.obj -c H:\games4k\Risovalka228\src\Circle.cpp
+
+CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.i"
+	C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E H:\games4k\Risovalka228\src\Circle.cpp > CMakeFiles\RayLibTemplate.dir\src\Circle.cpp.i
+
+CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.s"
+	C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S H:\games4k\Risovalka228\src\Circle.cpp -o CMakeFiles\RayLibTemplate.dir\src\Circle.cpp.s
+
 CMakeFiles/RayLibTemplate.dir/src/Line.cpp.obj: CMakeFiles/RayLibTemplate.dir/flags.make
 CMakeFiles/RayLibTemplate.dir/src/Line.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
 CMakeFiles/RayLibTemplate.dir/src/Line.cpp.obj: ../src/Line.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Line.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Line.cpp.obj"
 	C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RayLibTemplate.dir\src\Line.cpp.obj -c H:\games4k\Risovalka228\src\Line.cpp
 
 CMakeFiles/RayLibTemplate.dir/src/Line.cpp.i: cmake_force
@@ -82,7 +96,7 @@ CMakeFiles/RayLibTemplate.dir/src/Line.cpp.s: cmake_force
 CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.obj: CMakeFiles/RayLibTemplate.dir/flags.make
 CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
 CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.obj: ../src/MyCamera.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.obj"
 	C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RayLibTemplate.dir\src\MyCamera.cpp.obj -c H:\games4k\Risovalka228\src\MyCamera.cpp
 
 CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.i: cmake_force
@@ -96,7 +110,7 @@ CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.s: cmake_force
 CMakeFiles/RayLibTemplate.dir/src/Object.cpp.obj: CMakeFiles/RayLibTemplate.dir/flags.make
 CMakeFiles/RayLibTemplate.dir/src/Object.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
 CMakeFiles/RayLibTemplate.dir/src/Object.cpp.obj: ../src/Object.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Object.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Object.cpp.obj"
 	C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RayLibTemplate.dir\src\Object.cpp.obj -c H:\games4k\Risovalka228\src\Object.cpp
 
 CMakeFiles/RayLibTemplate.dir/src/Object.cpp.i: cmake_force
@@ -110,7 +124,7 @@ CMakeFiles/RayLibTemplate.dir/src/Object.cpp.s: cmake_force
 CMakeFiles/RayLibTemplate.dir/src/Point.cpp.obj: CMakeFiles/RayLibTemplate.dir/flags.make
 CMakeFiles/RayLibTemplate.dir/src/Point.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
 CMakeFiles/RayLibTemplate.dir/src/Point.cpp.obj: ../src/Point.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Point.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/Point.cpp.obj"
 	C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RayLibTemplate.dir\src\Point.cpp.obj -c H:\games4k\Risovalka228\src\Point.cpp
 
 CMakeFiles/RayLibTemplate.dir/src/Point.cpp.i: cmake_force
@@ -124,7 +138,7 @@ CMakeFiles/RayLibTemplate.dir/src/Point.cpp.s: cmake_force
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: CMakeFiles/RayLibTemplate.dir/flags.make
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: CMakeFiles/RayLibTemplate.dir/includes_CXX.rsp
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/RayLibTemplate.dir/src/main.cpp.obj"
 	C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RayLibTemplate.dir\src\main.cpp.obj -c H:\games4k\Risovalka228\src\main.cpp
 
 CMakeFiles/RayLibTemplate.dir/src/main.cpp.i: cmake_force
@@ -137,6 +151,7 @@ CMakeFiles/RayLibTemplate.dir/src/main.cpp.s: cmake_force
 
 # Object files for target RayLibTemplate
 RayLibTemplate_OBJECTS = \
+"CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.obj" \
 "CMakeFiles/RayLibTemplate.dir/src/Line.cpp.obj" \
 "CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.obj" \
 "CMakeFiles/RayLibTemplate.dir/src/Object.cpp.obj" \
@@ -146,6 +161,7 @@ RayLibTemplate_OBJECTS = \
 # External object files for target RayLibTemplate
 RayLibTemplate_EXTERNAL_OBJECTS =
 
+RayLibTemplate.exe: CMakeFiles/RayLibTemplate.dir/src/Circle.cpp.obj
 RayLibTemplate.exe: CMakeFiles/RayLibTemplate.dir/src/Line.cpp.obj
 RayLibTemplate.exe: CMakeFiles/RayLibTemplate.dir/src/MyCamera.cpp.obj
 RayLibTemplate.exe: CMakeFiles/RayLibTemplate.dir/src/Object.cpp.obj
@@ -157,7 +173,7 @@ RayLibTemplate.exe: libs/raylib/raylib/external/glfw/src/libglfw3.a
 RayLibTemplate.exe: CMakeFiles/RayLibTemplate.dir/linklibs.rsp
 RayLibTemplate.exe: CMakeFiles/RayLibTemplate.dir/objects1.rsp
 RayLibTemplate.exe: CMakeFiles/RayLibTemplate.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable RayLibTemplate.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=H:\games4k\Risovalka228\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable RayLibTemplate.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\RayLibTemplate.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
