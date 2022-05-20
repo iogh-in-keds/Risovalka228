@@ -1,4 +1,4 @@
-# Install script for directory: H:/games4k/Risovalka228/libs/raylib-4.1/src/external/glfw/src
+# Install script for directory: D:/bebra/Risovalka228/libs/raylib-4.1/src/external/glfw/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/objdump.exe")
 endif()
 

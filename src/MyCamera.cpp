@@ -10,6 +10,8 @@ MyCamera::MyCamera() {
     cursX = 0;
     cursY = 0;
     mCamera.zoom = 1;
+    mCamera.offset = position;
+    mCamera.rotation = 0;
 }
 
 void MyCamera::update() {
